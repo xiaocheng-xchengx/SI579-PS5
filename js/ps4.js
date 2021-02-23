@@ -1,3 +1,7 @@
+// Note: the last function uses Moment.js to represent the dates in different
+// formats. Please click the shuffle icon next to "Important Timelines" to see
+// what the function does.
+
 let darkModeButton = document.getElementsByClassName("darkMode");
 let lightModeButton = document.getElementsByClassName("lightMode");
 let sections = document.getElementsByTagName("section");
